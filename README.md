@@ -1,2 +1,0 @@
-# blogmanagementsystem
-app development
