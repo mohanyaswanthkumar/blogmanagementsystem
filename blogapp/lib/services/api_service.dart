@@ -5,7 +5,7 @@ import '../models/blog.dart';
 import '../models/user.dart';
 
 class ApiService {
-  static const String _baseUrl = 'https://yourapi.com/api';
+  static const String _baseUrl = 'https://127.0.0.1/blogapp';
 
   // Login
   static Future<bool> login(String email, String password) async {
